@@ -5,7 +5,7 @@ This Repository contains the Python script for scraping the Latitude, Longitude,
 <ul>
   <li><strong>scrape_latlng.py</strong> - <i>Script for Scraping latitude, longitude, name and id of all restaurants at a place in Manila</i></li>
   <li><strong>output_latlng.json</strong> - <i>Contains the scraped data in JSON format (538 restaurants)</i></li>
-  <li><strong>restaurant_list.txt</strong> - <i>Contains the urls of all scraped restaurants</i></li>
+  <li><strong>restaurant_urls.txt</strong> - <i>Contains the urls of all scraped restaurants</i></li>
 </ul>
 
 ## How to Run
