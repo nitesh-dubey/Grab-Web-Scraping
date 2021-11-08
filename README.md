@@ -4,7 +4,9 @@ This Repository contains the Python script for scraping the Latitude, Longitude,
 ## Contents
 <ul>
   <li><strong>scrape_latlng.py</strong> - <i>Script for Scraping latitude, longitude, name and id of all restaurants at a place in Manila</i></li>
-  <li><strong>output_latlng.json</strong> - <i>Contains the scraped data in JSON format (538 restaurants)</ul>
+  <li><strong>output_latlng.json</strong> - <i>Contains the scraped data in JSON format (538 restaurants)</i></li>
+
+</ul>
 
 ## How to Run
 ```bash
@@ -29,6 +31,6 @@ To Scrape the *latitude*, *longitude*, *name* and *id* of all restaurants,  I've
 
   <li>Each Response will have the data of 8 restaurants. Scrape the latitudes and longitudes of all restaurants along with their name and Ids from all such responses. </li>
 
-<li>Output the latitudes and longitudes of all restaurants in a<i>JSON</i> file</li>
+<li>Output the latitudes and longitudes of all restaurants in a <i>JSON</i> file</li>
 
 </ul>
